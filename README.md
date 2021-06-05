@@ -18,7 +18,7 @@ Fastify web server
 Node.js REST API server, postman
 ### [Lab 5](https://github.com/colvinbmc/cit281-lab5.git)
 Postman
-## Project 5
+## [Project 5](https://github.com/colvinbmc/cit281-p5.git)
 Classes and gaming loop
 ## Project 6
 More classes 
