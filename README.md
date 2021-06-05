@@ -30,7 +30,7 @@ Github
 Github CIT minor portfolio
 ### [Lab 8](https://github.com/colvinbmc/cit281-lab8.git)
 Fastfiy and node-fetch, JSON placeholder data
-### Lab 9
+### [Lab 9](https://github.com/colvinbmc/cit281-lab9.git)
 Github course repo
 
 ![eberhard-grossgasteiger-DmIJbj6-3-c-unsplash (1)](https://user-images.githubusercontent.com/84438582/120871502-a3bc1500-c550-11eb-85a5-37c7eedd9c92.jpg)
