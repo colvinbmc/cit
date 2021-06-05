@@ -24,7 +24,7 @@ Classes and gaming loop
 More classes 
 ### [Lab 6](https://github.com/colvinbmc/cit281-lab6.git)
 Github and classes
-### Lab 7
+### [Lab 7](https://github.com/colvinbmc/cit281-lab7.git)
 Github
 ## Project 7
 Github CIT minor portfolio
