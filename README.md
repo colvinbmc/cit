@@ -22,7 +22,7 @@ Postman
 Classes and gaming loop
 ## Project 6
 More classes 
-### Lab 6
+### [Lab 6](https://github.com/colvinbmc/cit281-lab6.git)
 Github and classes
 ### Lab 7
 Github
