@@ -12,7 +12,7 @@ CLI commands for Git commands
 Using fastify with get verb, routes, and query parameters; loading files and using them as web pages
 ### [Lab 3](https://github.com/colvinbmc/cit281-lab3.git)
 Refactoring with modern syntax, creating and importing modules
-### Lab 4
+### [Lab 4](https://github.com/colvinbmc/cit281-lab4.git)
 Fastify web server
 ## Project 4
 Node.js REST API server, postman
