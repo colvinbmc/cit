@@ -4,7 +4,7 @@ CIT Minor repository page
 Working with command line interface and Visual Studio Code
 ### [Lab 1](https://github.com/colvinbmc/cit281-lab1.git)
 Terminal commands and keyboards shortcuts
-## Project 2
+## [Project 2](https://github.com/colvinbmc/cit281-p2.git)
 Practice using Git
 ### [Lab 2](https://github.com/colvinbmc/cit281-lab2.git)
 CLI commands for Git commands
