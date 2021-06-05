@@ -1,6 +1,6 @@
 # cit
 CIT Minor repository page
-## Project 1
+## [Project 1](https://github.com/colvinbmc/cit281-p1.git)
 Working with command line interface and Visual Studio Code
 ### [Lab 1](https://github.com/colvinbmc/cit281-lab1.git)
 Terminal commands and keyboards shortcuts
