@@ -16,7 +16,7 @@ Refactoring with modern syntax, creating and importing modules
 Fastify web server
 ## Project 4
 Node.js REST API server, postman
-### Lab 5
+### [Lab 5](https://github.com/colvinbmc/cit281-lab5.git)
 Postman
 ## Project 5
 Classes and gaming loop
