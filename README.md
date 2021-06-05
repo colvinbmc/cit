@@ -6,7 +6,7 @@ Working with command line interface and Visual Studio Code
 Terminal commands and keyboards shortcuts
 ## Project 2
 Practice using Git
-### Lab 2
+### [Lab 2](https://github.com/colvinbmc/cit281-lab2.git)
 CLI commands for Git commands
 ## Project 3 
 Using fastify with get verb, routes, and query parameters; loading files and using them as web pages
