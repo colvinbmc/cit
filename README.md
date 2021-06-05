@@ -14,7 +14,7 @@ Using fastify with get verb, routes, and query parameters; loading files and usi
 Refactoring with modern syntax, creating and importing modules
 ### [Lab 4](https://github.com/colvinbmc/cit281-lab4.git)
 Fastify web server
-## Project 4
+## [Project 4](https://github.com/colvinbmc/cit281-p4.git)
 Node.js REST API server, postman
 ### [Lab 5](https://github.com/colvinbmc/cit281-lab5.git)
 Postman
