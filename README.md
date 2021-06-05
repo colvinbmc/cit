@@ -28,7 +28,7 @@ Github and classes
 Github
 ## Project 7
 Github CIT minor portfolio
-### Lab 8
+### [Lab 8](https://github.com/colvinbmc/cit281-lab8.git)
 Fastfiy and node-fetch, JSON placeholder data
 ### Lab 9
 Github course repo
