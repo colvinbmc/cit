@@ -8,7 +8,7 @@ Terminal commands and keyboards shortcuts
 Practice using Git
 ### [Lab 2](https://github.com/colvinbmc/cit281-lab2.git)
 CLI commands for Git commands
-## Project 3 
+## [Project 3 ](https://github.com/colvinbmc/cit281-p3.git)
 Using fastify with get verb, routes, and query parameters; loading files and using them as web pages
 ### [Lab 3](https://github.com/colvinbmc/cit281-lab3.git)
 Refactoring with modern syntax, creating and importing modules
